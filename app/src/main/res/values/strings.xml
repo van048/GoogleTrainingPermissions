@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleTrainingPermissions</string>
+    <string name="check_for_permissions">check for permissions</string>
+    <string name="request_permissions">request permissions</string>
+</resources>
